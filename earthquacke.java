@@ -1,4 +1,4 @@
-public import java.util.Scanner;
+import java.util.Scanner;
 
 class Earthquake{
 
@@ -52,7 +52,4 @@ class Earthquake{
     }
 
 
-}
- {
-    
 }

@@ -1,4 +1,4 @@
-public class EvenOdd {
+public class evenodd {
     public static void main(String[] args) {
         int number = 10; // You can change this number to test different values
         

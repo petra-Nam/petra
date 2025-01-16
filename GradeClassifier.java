@@ -1,5 +1,5 @@
 public class GradeClassifier {
-public public static void main(String[] args) {
+public static void main(String[] args) {
     int score = 85; // You can change this score to test different values
     
     if (score >= 90) {
@@ -14,6 +14,4 @@ public public static void main(String[] args) {
         System.out.println("Grade: F");
     }
 }
-} {
-    
 }
