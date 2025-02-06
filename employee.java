@@ -80,7 +80,7 @@ class EmployeeManagementSystem {
     }
 }
 
-public class Main {
+public class employee {
     public static void main(String[] args) {
         EmployeeManagementSystem ems = new EmployeeManagementSystem();
 
